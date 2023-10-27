@@ -36,11 +36,6 @@ void printList(List <int>  inputList)
         Console.Write(", " + inputList[i]);
     }
     Console.Write("> ");
-    // foreach (var item in inputList) // цикл для работы с массивом
-    // {
-    //     Console.Write(item + ", ");
-    // }
-}
 
 int positiveCount(List <int> inputList)
 {
